@@ -1,0 +1,45 @@
+SQUARESYNTH - customizable synthesizer module developed by Lifepatch.
+
+:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a
+:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a
+
+
+                                                                                                     .od.omMMMMMho.     
+                                                                                                  `/hMMN   :yNMMmMMd+`  
+                                                                                                -yNMMMMN     `/dmMMMMNy-
+ hm        hd  sMsssssso`Mdssssss+ /Mysssssyd/    `mmM-    yyyymyyyyy:.yhssooosms  Ny       +M. MMMMMMMN        dNNNNNmm
+ hm        hd  sM       `Mo        /M-       M    hm`sN.       sM`    yM`      /m. Ny       +M. MMMMMMMN        dMMNNNMM
+ hm        hd  sM//////-`Mh//////. /M-       M   sN.  hm`      sM`    hN           Nd///////yM. MMMMMMMN        hNNMMMMM
+ hm        hd  sM//////.`Ms//////` /Myssssys+`  /M:   `mh      sM`    hM           Nh///////oM. MMMMMMMMh/`     dNNNNNh/
+ hm        hd  sM       `Mo        /M-         -MhooooosNs     sM`    oM.      -M/ Ny       +M. MMMMMMMMMMNy:   dMMmo.  
+ hNyyyyyys hd  sM       `Mdssssss+ /M-        .Ny       :M+    sM`    `ydysoossdh` Ny       +M. MMMMMMMMMMMMMNs-hs-     
+                                                                                                 -smNNNNm````````        
+                                                                                                  `/dMMN                
+                                                                                                    .od                
+
+:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a
+:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a:a
+
+SQUARESYNTH is a workshop modul of Lifepatch - citizen initiative in art, science and technology http://lifepatch.org
+Documentation can be found in http://lifepatch.org/Squaresynth
+Designs can be found in http://github.com/squaresolid/squaresynth
+SQUARESYNTH is released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+More about this license check: http://creativecommons.org/licenses/by-nc-sa/4.0/
+SQUARESYNTH is initiated by Andreas Siagian http://andreassiagian.wordpress.com
+
+Part List:
+1 Squaresynth PCB
+1 CD4093 / HEF 4093
+1 9V battery socket
+1 Potentiometer (100K)
+1 Potentiometer (1K)
+2 Resistor (100R)
+2 Fast Switching Diode 1N914/1N4148
+1 3.5 mm audio socket (mono or stereo)
+1 LDR
+2 aligator clip
+2 LED
+cables
+
+
+
